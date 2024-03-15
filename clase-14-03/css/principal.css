@@ -1,0 +1,15 @@
+.contenedor{
+	width: 100%;
+}
+.izquierda{
+	float: left;
+	
+}
+.espaciado{
+	
+	padding: 20px;
+	
+}
+.limpiar{
+	clear:both;
+}
